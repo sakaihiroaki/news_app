@@ -8,10 +8,8 @@ class AboutUsPage extends StatefulWidget {
 class _AboutUsPageState extends State<AboutUsPage> {
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-        body: Container(),
-      ),
+    return Scaffold(
+      body: Container(),
     );
   }
 }
