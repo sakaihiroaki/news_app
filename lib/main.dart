@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'NewsFeed',
+      title: 'News Feed',
       theme: ThemeData(
         primaryColor: const Color.fromRGBO(5, 152, 138, 1.0),
         accentColor: const Color.fromRGBO(5, 152, 138, 1.0),
